@@ -28,6 +28,6 @@ For any questions or support needs, please contact our support team at nelsontom
 
 License
 
-HarvestHQ is currently not licensed. Please reach out to us for more information on licensing.
+HarvestHQ is currently not licensed. Please reach out to me for more information on licensing.
 
 We hope you find HarvestHQ valuable and enjoy using it to enhance your farming journey. Happy farming!
